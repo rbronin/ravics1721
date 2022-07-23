@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ravibharti.vercel.app" target="_blank">Ravi Bharti</a> 👋  </h1>
+<h1 align="center">Hi there, I'm <a href="https://ravibharti.vercel.app" target="__blank">Ravi Bharti</a> 👋  </h1>
 <img src="https://media.giphy.com/media/7uhrpnv9mibtyFHR0l/giphy.gif" height="100px" width="100px" />
 
 
@@ -7,17 +7,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ravics1718@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
-I am full-stack web developer, love transaform idea into reality
+I am full-stack web developer, loves to transaform idea into reality.
 
 
   
 ## About Me:
 
 &nbsp; 🔭 &nbsp; Currently learning Python, can collaborate on a project 🖖<br/>
-&nbsp;🌱 &nbsp; My tech stack is full-stack Javascript <br />
+&nbsp;🌱 &nbsp; My tech stack is full-stack Javascript(React.js, Node.js, Express.js etc) with MongoDB & PosgreSQL <br />
 &nbsp;💬 &nbsp; Ask me about things I may know. Always happy to help <br />
 
-<br />
  
 <h3 >GitHub Stats</h3>
 <br />
@@ -27,8 +26,6 @@ I am full-stack web developer, love transaform idea into reality
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravics1721&theme=nord_dark"/>
 </div>
 
-
-<br />
 <h3 >Tech Stacks</h3>
 <div >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravics1721&theme=nord_dark"/>
@@ -42,8 +39,6 @@ I am full-stack web developer, love transaform idea into reality
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravics1721&theme=nord_dark&utcOffset=8"/>
   </div>
 
-
-<br />
 <h3 >Streak Stats</h3>
 <div >
 
